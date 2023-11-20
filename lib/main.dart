@@ -20,5 +20,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
-// https://www.dhiwise.com/post/flutter-design-patterns-demystified-a-beginners-guide#1-the-singleton-pattern
+//https://www.tutorialkart.com/flutter/flutter-sqlite-tutorial/#gsc.tab=0
